@@ -1,1 +1,1 @@
-require('trollgrenade')
+require('trollgrenade_recipe')
